@@ -15,7 +15,7 @@ if($_POST["submit"]) {
 }
 
 ?>
-
+<!DOCTYPE html>
 
 <html>
 <head>
